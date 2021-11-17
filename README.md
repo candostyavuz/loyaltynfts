@@ -1,10 +1,13 @@
-##Loyalty NFTs##
+**Loyalty NFTs**
+
 Use NFTs as an exciting bond between brands and consumers.
 A solid and devoted group of consumers is a dream of every company.
 Of course quality of the products, friendliness of customer service even the style, language the brand uses has immense effect on this belonging.
 However, it is not all nor enough, especially when it comes to accessing to new loyal customers. Growing your community with new users and minimizing the leavers.
 Rewarding is a key point for marketing at all times. All that loyalty cards, small, maybe worthless gifts sending postcards, now emails on important dates served for this crucial purpose.
+
 But this has come to an end, especially for the younger generations. Nobody wants to carry loyalty cards anymore, receiving a bunch of emails does not make sense to anybody.
+
 NFTs are great assets that can serve for this purpose. They are unique, transferrable, collectible, basically the asset of the new era. 
 
 Imagine that products are sold with their conjugates, which are NFTs.
